@@ -22,7 +22,8 @@ select {
 }
 
 .field-label {
-  @apply text-sm font-medium text-stone-700;
+  @apply text-sm font-medium;
+  color: #44403c;
 }
 
 .field-input {
